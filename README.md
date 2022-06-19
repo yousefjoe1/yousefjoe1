@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋 I am Youssef Mahmoud
+# Junior Front-end Developer that addicted to learn and code every day to reach the senior level.
+
+- :zap: I love programming and reading.
+
+- 🔭 I’m currently looking for a job as a junior Front-end Developer.
+
+- 🌱 I’m currently learning react.js and improve my self in problem solving.
+
 
 <!--
 **yousefjoe1/yousefjoe1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
