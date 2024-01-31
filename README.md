@@ -3,9 +3,9 @@
 
 - :zap: I love programming and reading.
 
-- 🔭 I’m currently looking for a job as a junior Front-end Developer.
+- 🔭 I’m currently working as a Front-end Developer.
 
-- 🌱 I’m currently learning react.js and improve my self in problem solving.
+- 🌱 I’m currently learning react js + next js + react native and i improve my self in problem solving.
 
 
 [![Youssef Mahmoud's github stats](https://github-readme-stats.vercel.app/api?username=yousefjoe1&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/yousefjoe1/github-readme-stats)
