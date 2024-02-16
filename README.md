@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Youssef Mahmoud
 # Junior Front-end Developer that addicted to learn and code every day to reach the senior level.
 
-- :zap: I love programming and reading.
+- :zap: I love programming and i am a very good learner.
 
 - 🔭 I’m currently working as a Front-end Developer.
 
